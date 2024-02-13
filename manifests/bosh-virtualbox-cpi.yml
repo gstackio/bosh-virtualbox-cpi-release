@@ -42,5 +42,5 @@ stemcells:
 releases:
 - name: bosh-virtualbox-cpi
   sha1: f80663a809ba6ea200b8fc1a87932120fd25766a
-  url: https://github.com/gstackio/bosh-virtualbox-cpi-boshrelease/releases/download/v0.4.3/bosh-virtualbox-cpi-0.4.3.tgz
+  url: https://github.com/gstackio/bosh-virtualbox-cpi-release/releases/download/v0.4.3/bosh-virtualbox-cpi-0.4.3.tgz
   version: 0.4.3
