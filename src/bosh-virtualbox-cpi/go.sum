@@ -2,10 +2,10 @@ github.com/bmatcuk/doublestar v1.3.4 h1:gPypJ5xD31uhX6Tf54sDPUOBXTqKH4c9aPY66CyQ
 github.com/bmatcuk/doublestar v1.3.4/go.mod h1:wiQtGV+rzVYxB7WIlirSN++5HPtPlXEo9MEoZQC/PmE=
 github.com/charlievieth/fs v0.0.3 h1:3lZQXTj4PbE81CVPwALSn+JoyCNXkZgORHN6h2XHGlg=
 github.com/charlievieth/fs v0.0.3/go.mod h1:hD4sRzto1Hw8zCua76tNVKZxaeZZr1RiKftjAJQRLLo=
-github.com/cloudfoundry/bosh-cpi-go v0.0.0-20240518100236-7949b0f34a61 h1:J74Ccvf80R/u+NV60R4KxanAGxekvNcZPSW22hv9lLY=
-github.com/cloudfoundry/bosh-cpi-go v0.0.0-20240518100236-7949b0f34a61/go.mod h1:bXisjVIkJyDjDU2ytXg61d9gwHhde1hf39gq0i0hPX0=
-github.com/cloudfoundry/bosh-utils v0.0.466 h1:hSmdQqMeLQyx5D3+RdYR3PUxPXePFpXWo3+uqr57JSA=
-github.com/cloudfoundry/bosh-utils v0.0.466/go.mod h1:BChpPtnlPVU5TvbAYoSko3QcMs948gZYYx+jjlwBQy4=
+github.com/cloudfoundry/bosh-cpi-go v0.0.0-20240525100143-954f45ee0982 h1:KhTQ+TQiP6XVcL6NGAZh9iDsKODmCaoEkQI/M20hrFc=
+github.com/cloudfoundry/bosh-cpi-go v0.0.0-20240525100143-954f45ee0982/go.mod h1:I5jPk3J5IubdJ5jVx3BkjtDwlHE6Z/KrbaPnDGqMfgo=
+github.com/cloudfoundry/bosh-utils v0.0.468 h1:jj6/xPWbC+AcX3M5jfej9/ZBijHA+601WtU7mHMbGGo=
+github.com/cloudfoundry/bosh-utils v0.0.468/go.mod h1:1FGfRwjekwAfJiikZ5u6DMP56h1Xy71HwQqaBonUYPM=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/fsnotify/fsnotify v1.6.0 h1:n+5WquG0fcWoWp6xPWfHdbskMCQaFnG6PfBrh1Ky4HY=
@@ -16,8 +16,8 @@ github.com/go-task/slim-sprig/v3 v3.0.0 h1:sUs3vkvUymDpBKi3qH1YSqBQk9+9D/8M2mN1v
 github.com/go-task/slim-sprig/v3 v3.0.0/go.mod h1:W848ghGpv3Qj3dhTPRyJypKRiqCdHZiAzKg9hl15HA8=
 github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
 github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
-github.com/google/pprof v0.0.0-20240521024322-9665fa269a30 h1:r6YdmbD41tGHeCWDyHF691LWtL7D1iSTyJaKejTWwVU=
-github.com/google/pprof v0.0.0-20240521024322-9665fa269a30/go.mod h1:kf6iHlnVGwgKolg33glAes7Yg/8iWP8ukqeldJSO7jw=
+github.com/google/pprof v0.0.0-20240528025155-186aa0362fba h1:ql1qNgCyOB7iAEk8JTNM+zJrgIbnyCKX/wdlyPufP5g=
+github.com/google/pprof v0.0.0-20240528025155-186aa0362fba/go.mod h1:K1liHPHnj73Fdn/EKuT8nrFqBihUSKXoLYU0BuatOYo=
 github.com/kr/pretty v0.3.0 h1:WgNl7dwNpEZ6jJ9k1snq4pZsg7DOEN8hP9Xw0Tsjwk0=
 github.com/kr/pretty v0.3.0/go.mod h1:640gp4NfQd8pI5XOwp5fnNeVWj67G7CFk/SaSQn7NBk=
 github.com/kr/text v0.2.0 h1:5Nx0Ya0ZqY2ygV366QzturHI13Jq95ApcVaJBhpS+AY=
