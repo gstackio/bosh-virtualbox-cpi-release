@@ -3,10 +3,10 @@ module bosh-virtualbox-cpi
 go 1.22
 
 require (
-	github.com/cloudfoundry/bosh-cpi-go v0.0.0-20240713100059-ee36b481c0ad
+	github.com/cloudfoundry/bosh-cpi-go v0.0.0-20240720100156-4645fd6363f2
 	github.com/cloudfoundry/bosh-utils v0.0.479
-	github.com/onsi/ginkgo/v2 v2.19.0
-	github.com/onsi/gomega v1.33.1
+	github.com/onsi/ginkgo/v2 v2.19.1
+	github.com/onsi/gomega v1.34.0
 	golang.org/x/crypto v0.25.0
 )
 
@@ -16,7 +16,7 @@ require (
 	github.com/go-logr/logr v1.4.2 // indirect
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
-	github.com/google/pprof v0.0.0-20240711041743-f6c9dda6c6da // indirect
+	github.com/google/pprof v0.0.0-20240722153945-304e4f0156b8 // indirect
 	github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d // indirect
 	golang.org/x/net v0.27.0 // indirect
 	golang.org/x/sys v0.22.0 // indirect
